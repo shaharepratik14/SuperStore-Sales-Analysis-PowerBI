@@ -1,4 +1,4 @@
-# SuperStore-Sales-Analysis Dashboard
+# SuperStore-Sales-Analysis-Dashboard
 
 **1. Short Description**
 
