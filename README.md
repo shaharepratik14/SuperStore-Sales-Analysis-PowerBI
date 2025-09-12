@@ -37,4 +37,3 @@ Assisted in decision-making for marketing campaigns and inventory planning.
 
 **6. Screenshot:**
 
-https://github.com/shaharepratik14/SuperStore-Sales-Analysis/blob/main/Screenshot%20of%20SuperStore%20Dashboard.png
