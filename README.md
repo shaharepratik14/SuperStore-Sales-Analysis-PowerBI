@@ -9,17 +9,16 @@ The SuperStore Sales Analysis Dashboard is an interactive Power BI report design
 Power BI Desktop – Main platform for report development and dashboard creation
 Power Query – Data cleaning, transformation, and shaping before analysis
 DAX (Data Analysis Expressions) – Creation of calculated measures for KPIs like Total Sales, Profit, Orders, and Ship Days
-Data Modeling – Relationship building between fact and dimension tables for efficient reporting
-File Format – .pbix for development, .png for snapshot previews
+Data Modeling – Relationship building between fact and dimension tables for efficient reporting.
 
 **3. Data Source**
 
-Dataset: Global SuperStore dataset (Sample dataset widely used for BI and analytics)
-Data Includes: Sales, Profit, Orders, Customers, Categories, Sub-categories, Regions, Payment Modes, and Shipping details
+Dataset: SuperStore dataset (Sample dataset widely used for BI and analytics)
+Data Includes: Sales, Profit, Orders, Customers, Categories, Sub-categories, Regions, Payment Modes, and Shipping details.
 
 **4. Features / Highlights**
 
-Business Problem: Organizations need an easy way to track sales performance, profitability, and customer behavior across multiple dimensions.
+Business Problem: The Organization needs an easy way to track sales performance, profitability, and customer behavior across multiple dimensions.
 Goal: Deliver a user-friendly and visually engaging dashboard that empowers businesses to monitor performance and make data-driven decisions.
 Key Visuals & Insights:-
 KPI Cards: Display Total Sales (1.6M), Profit (175K), Orders (22K), and Ship Days (4).
@@ -35,6 +34,6 @@ Helped identify top-performing regions and product categories.
 Provided insights into payment mode preferences and shipping trends.
 Assisted in decision-making for marketing campaigns and inventory planning.
 
-**6. Screenshot:**
+**6. Screenshot of Dashboard:**
 
 ![Dashboard Preview](https://github.com/shaharepratik14/SuperStore-Sales-Analysis/blob/main/Screenshot%20of%20SuperStore%20Dashboard.png)
